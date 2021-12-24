@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: 'pages/gomoku.html',
             technologies: ['ML', 'CNN', 'MCTS'],
             description: "A web application of Gomoku using the AlphaZero model. AlphaZero was proposed by Google DeepMind in 2018, and we implemented it to power our Gomoku application utilizing CNN and MCTS in a unified reinforcement learning framework.",
-            categories: ['featured', 'ai']
+            categories: ['featured', 'ai', 'web']
         },
         {
             image: 'assets/images/churn-analysis.png',
