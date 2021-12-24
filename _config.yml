@@ -1,0 +1,17 @@
+title: Yang Qiu
+description: Wenzhou-Kean University
+site_title: 'Yang Qiu'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+email: yangq@kean.edu
+
+# absolute or relative
+profile_picture: assets/images/avatar.png
+url: https://davidyqiu.github.io
+
+# Google Analytics ID
+google_analytics: 
